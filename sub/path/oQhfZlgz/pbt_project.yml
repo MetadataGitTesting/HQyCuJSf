@@ -1,0 +1,59 @@
+name: leonard.shields
+description: transitional
+version: 0.0.1
+author: mfqnb1dt.1ufts5qf@ewjqv46d.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: leonardshields
+  parentArtefactID: team1740439309763
+  buildSystem: maven
+  author: null
+  createdAt: '2025-02-24 23:21:50'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: 2.12.15
+  gemLibsVersion: 1.1.26
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-02-24 23:21:50'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlOrchestratorPipelines: {}
+sqlBusinessApps: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-02-24T23:21:50.759359Z'
+  name: plibMaven
+  version: 8.9.0-SNAPSHOT
+  id: '1491984582'
+  createdAt: '2025-02-24T23:21:50.759359Z'
+  type: plibMaven
+projectDependencies:
+  '440':
+    projectUID: 440
+    projectName: beryl.pouros
+    repositoryPath: gitUri=http://gitserver:3000/dev_cyVyBAY8_team_725/dev_cyVyBAY8_project_440.git&subPath=
+    version: beryl.pouros/0.31.694
+    isDefault: false
+    author: null
+    createdAt: '2025-02-24 23:21:50'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
